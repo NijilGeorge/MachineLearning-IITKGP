@@ -1,0 +1,6 @@
+﻿1. The problem statement consists of 4 parts. For each of these parts, the corresponding source codes and the outputs obtained in that step are placed in their respective folders.
+2. For some parts, like part 2 and part 4, we are reusing the same data obtained in some other part. E.g. part 2 uses the output of part 1 and part 4 uses the output of part 3. Hence it is advised to run the parts in order ( else we will be reusing the data from a previous time). 
+3. To run any code, on a Linux shell, type  ` python <filename.py> `         Any data files generated are stored automatically and the plots are displayed during execution (not stored).
+4. The files generated during the execution of part 1 are the dataset, learnt weights and the errors (w.r.t degree) of the models. These are stored in the first folder with appropriate names.
+5. The second part has no storable output. Only the plots are generated and displayed
+6. The third part generates similar data like 1st one, for the three instances 100,1000,10000. For plotting the error vs size graph, the same dataset from the 1st part is reused.
